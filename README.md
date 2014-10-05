@@ -8,7 +8,7 @@ Note that this code requires the [Gnu Scientific Library](http://www.gnu.org/sof
 
 ## Downloads
 
-View the [README](https://github.com/dblei/ctm-c/blob/master/README).
+View the [README](https://github.com/Blei-Lab/ctm-c/blob/master/README).
 
 Fork or clone this repository.
 
